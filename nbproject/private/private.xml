@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/finance_app/Finance_app.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/qurey/UserQuery.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/income_screen/bin_page.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/exception/NullException.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/db/SavingsEntity.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/db/UserEntity.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/expense_screen/DeleteExpense.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/saving_screen/saving_page.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/exception/AlreadyExsitException.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/expense_screen/ShowExpense.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/db/Database.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/qurey/SavingsQuery.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/income_screen/updateIncome.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/saving_screen/saving_history.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/income_screen/income_page.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/db/IncomeEntity.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/qurey/IncomeQuery.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/income_screen/show_income.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/login_signin/log_in_page.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/db/ExpensesEntity.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/login_signin/Sign_in_page.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/qurey/ExpenseQuery.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/homePage/home_page.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/expense_screen/expense_page.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/expense_screen/UpdateExpense.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/expense_screen/bin_page.java</file>
+            <file>file:/D:/Java%20programming/oop%20project/finance_app/src/income_screen/deleteIncome.java</file>
+        </group>
+    </open-files>
+</project-private>
